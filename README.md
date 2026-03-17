@@ -1,4 +1,4 @@
-<img width="1422" height="722" alt="image" src="https://github.com/user-attachments/assets/0be2f7ea-1f5a-4e65-bae9-6e89f3b64cb6" /># Ex_No_2_Blockchain-Based-Crowdfunding-Kickstarter-Alternative-
+# Ex_No_2_Blockchain-Based-Crowdfunding-Kickstarter-Alternative-
 
 # AIM:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
