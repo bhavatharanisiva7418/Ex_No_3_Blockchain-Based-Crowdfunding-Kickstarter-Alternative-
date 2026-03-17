@@ -1,4 +1,4 @@
-# Ex_No_2_Blockchain-Based-Crowdfunding-Kickstarter-Alternative-
+# Ex_No_3_Blockchain-Based-Crowdfunding-Kickstarter-Alternative-
 
 # AIM:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
